@@ -53,11 +53,13 @@ loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
-delete-delay: 1000
+delete-delay: 2000
 lines: # You can add HTML Tags in the Text
   - text: "With great power comes great responsibility..."
   - text: "$ sudo su -"
+  - text: "# :(){ :|: & };:"
   - text: "$ kubectl get deployments --namespace=life"
+  - text: "$ helm upgrade sleep unstable/sleep/"
 
 # me-img: "/img/author.png"
 
