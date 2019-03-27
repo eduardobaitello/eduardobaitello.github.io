@@ -12,7 +12,7 @@ url: "http://eduardobaitello.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /eduardobaitello
+baseurl: /eduardobaitello.github.io
 
 # Google tracking id
 
@@ -175,7 +175,7 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username:
+keybase-username: ""
 keybase-in-social: False
 keybase-in-footer: False
 
