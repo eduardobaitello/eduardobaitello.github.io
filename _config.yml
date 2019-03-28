@@ -31,8 +31,8 @@ force-https: True
 lang: "en"
 author: "Eduardo Baitello"
 title: "Eduardo Baitello"
-description: "Website of Eduardo Baitello."
-keywords: "linux, kubernetes"
+description: "Linux lover, DevOps enthusiast, Kubernetes adept and {{insert_another_catchphrase}}. He/him."
+keywords: "linux, devops, kubernetes, minikube, helm, prometheus"
 favicon: "/img/terminal.ico"
 
 ################
