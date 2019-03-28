@@ -210,3 +210,11 @@ sass:
 plugins:
   - jekyll-paginate
   - jemoji
+
+# Custom headers
+webrick:
+  headers:
+    # Security headers: https://infosec.mozilla.org/guidelines/web_security
+    X-Frame-Options: "SAMEORIGIN"
+    X-Content-Type-Options: "nosniff"
+    X-XSS-Protection: "1; mode=block"
