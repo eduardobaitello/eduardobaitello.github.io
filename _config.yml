@@ -162,8 +162,10 @@ social:
     url: "https://twitter.com/eduardobaitello"
   - title: "medium"
     url: "https://medium.com/@eduardobaitello"
+  - title: "stack-overflow"
+    url: "https://stackoverflow.com/story/eduardobaitello"
   - title: "stack-exchange"
-    url: "https://stackexchange.com/users/10360423/eduardo-baitello"
+    url: "https://stackexchange.com/users/10360423/eduardo-baitello?tab=accounts"
   - title: "rss"
     url: "/feed.xml"
 
