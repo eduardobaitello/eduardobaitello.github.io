@@ -32,7 +32,7 @@ lang: "en"
 author: "Eduardo Baitello"
 title: "Eduardo Baitello"
 description: "Linux lover, DevOps enthusiast, Kubernetes adept and {{insert_another_catchphrase}}. He/him."
-keywords: "linux, devops, kubernetes, minikube, kubeadm, helm, prometheus"
+keywords: "linux, devops, kubernetes, kubectl, minikube, kubeadm, helm, prometheus"
 favicon: "/img/terminal.ico"
 
 ################
