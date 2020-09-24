@@ -62,6 +62,7 @@ lines: # You can add HTML Tags in the Text
   - text: "$ helm upgrade --set caffeine.enabled=true sleep unstable/sleep"
   - text: "$ kubeadm init --node-name=ameba --pod-network-cidr=10.244.0.0/16"
   - text: "The canonical pronunciation of kubectl is 'cube control'"
+  - text: "$ nmap --script vuln -sV -p$ports $host"
 
 # me-img: "/img/author.png"
 
